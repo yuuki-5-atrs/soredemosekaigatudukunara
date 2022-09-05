@@ -1,0 +1,127 @@
+@charset "UTF-8";
+
+body{
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  font-size: 13px;
+}
+
+.height20{
+  line-height: 20px;
+}
+
+.text10{
+  font-size: 10px;
+}
+
+.text12{
+  font-size: 12px;
+}
+
+.text13{
+  font-size: 13px;
+}
+
+.text14{
+  font-size: 14px;
+}
+
+.text15{
+  font-size: 15px;
+}
+
+.text-bold{
+  font-weight: bold;
+}
+
+.through{
+  text-decoration: line-through;
+}
+
+.margin10{
+  margin: 10px 0;
+}
+
+.margin20{
+  margin: 20px 0;
+}
+
+.margin30{
+  margin: 30px 0;
+}
+
+.margintop30{
+  margin-top: 30px;
+}
+
+.red{
+  color: #f00;
+ }
+
+p{
+  line-height:25px;
+}
+
+a{
+  color:#00f;
+  text-decoration: underline;
+}
+
+h1{
+ margin-top: 10px;
+ margin-bottom: 20px;
+  font-size:  15px;
+  font-weight: bold;
+}
+
+h2{
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 25px;
+}
+
+nav{
+  margin: 10px 0;
+}
+
+ol{
+  padding-left: 20px;
+  list-style: decimal;
+}
+
+.navside{
+  margin-bottom: 20px;
+  list-style-type: none;
+  display: flex;
+}
+
+.navside li{
+  margin-right: 10px;
+}
+
+.black{
+  font-weight: lighter;
+  color: white;
+  background-color: black;
+  padding: 8px;
+}
+
+.ep-copy{
+  background-color: #00ffff;
+  width: 500px;
+  height: 500px;
+}
+
+.tokuten{
+  background-color: #00ffff;
+  width: 200px;
+  height: 200px;
+}
+
+.cd-copy{
+  background-color: #00ffff;
+  width: 400px;
+  height: 400px;
+}
